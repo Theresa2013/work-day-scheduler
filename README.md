@@ -20,4 +20,4 @@ https://github.com/Theresa2013/work-day-scheduler.git
 
 ## Contribution
 
-Made with ❤️ by Theresa
+Made by Theresa Butterfield
